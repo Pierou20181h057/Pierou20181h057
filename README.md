@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Piero Liberato 👋</h1>
+</div>
+<img src="https://cdn.discordapp.com/attachments/958364639119433771/1116911951562424392/banner_tamano.jpg">
 
 <!--
 **Pierou20181h057/Pierou20181h057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
