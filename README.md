@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/Pierou20181h057">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pierou20181h057&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pierou20181h057&theme=algolia&hide_border=false" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pierou20181h057&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
