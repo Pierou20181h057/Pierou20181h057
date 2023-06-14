@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Android](http://img.shields.io/badge/-Android-629e3a?style=for-the-badge&logo=Android&logoColor=white)
+![Flutter](http://img.shields.io/badge/-Flutter-3596ed?style=for-the-badge&logo=Flutter)
+![Java](http://img.shields.io/badge/-Java-e8892f?style=for-the-badge&logo=java&logoColor=white)
+![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-3596ed?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
