@@ -31,12 +31,21 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
 
 
+## 🛠️ My Skills
 
-
-![Android](http://img.shields.io/badge/-Android-629e3a?style=for-the-badge&logo=Android&logoColor=white)
+### 👉 Programming languages 
+### I'm good at
+![Android](http://img.shields.io/badge/-Android-33CC33?style=for-the-badge&logo=Android&logoColor=white)
 ![Flutter](http://img.shields.io/badge/-Flutter-3596ed?style=for-the-badge&logo=Flutter)
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=for-the-badge&logo=java&logoColor=white)
+
+### Languages I have used.
+![C++](http://img.shields.io/badge/-C++-3596ed?style=for-the-badge&logo=c++&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-FFFF00?style=for-the-badge&logo=Python)
+
+### 👉 Database
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-3596ed?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MongoDB](http://img.shields.io/badge/-MongoDB-33CC33?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
