@@ -17,6 +17,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--🤔INTERESTTITLE-->
+<p align="center">
+  <h1 align="center">INTERESTS</h1>
+
+<!--🖼️🖼️INTERSTLOGOS-->
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
+
+
+
+
 ![Android](http://img.shields.io/badge/-Android-629e3a?style=for-the-badge&logo=Android&logoColor=white)
 ![Flutter](http://img.shields.io/badge/-Flutter-3596ed?style=for-the-badge&logo=Flutter)
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=for-the-badge&logo=java&logoColor=white)
@@ -34,3 +50,7 @@ Here are some ideas to get you started:
 </p>
 
 
+<h2>Connect with me!</h2>
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zubair-ahmed-rafi-95ba3322a/) 
+<br> <br>
