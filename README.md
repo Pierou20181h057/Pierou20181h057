@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 ### 👉 Programming languages 
 ### I'm good at
+![Python](http://img.shields.io/badge/-Python-FFFF00?style=for-the-badge&logo=Python)
 ![Android](http://img.shields.io/badge/-Android-33CC33?style=for-the-badge&logo=Android&logoColor=white)
 ![Flutter](http://img.shields.io/badge/-Flutter-3596ed?style=for-the-badge&logo=Flutter)
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=for-the-badge&logo=java&logoColor=white)
